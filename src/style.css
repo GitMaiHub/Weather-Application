@@ -1,7 +1,12 @@
+.container {
+  display: block;
+  margin: 150px auto;
+}
 .weather-app {
   background-color: #353536;
   border: 30px solid #6f6f70;
-  margin: 150px auto;
+  display: block;
+  margin: 20px 0;
   max-width: 450px;
   padding: 30px 10px;
   text-align: center;
@@ -48,4 +53,8 @@ p {
 div {
   color: #5666be;
   font-weight: 500;
+}
+.link {
+  color: black;
+  text-align: left;
 }
