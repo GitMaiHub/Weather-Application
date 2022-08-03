@@ -1,0 +1,51 @@
+.weather-app {
+  background-color: #353536;
+  border: 30px solid #6f6f70;
+  margin: 150px auto;
+  max-width: 450px;
+  padding: 30px 10px;
+  text-align: center;
+}
+
+.day {
+  color: #ff7396;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.city {
+  color: #1ab2a8;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 10px;
+}
+
+.temp {
+  color: #ab47bd;
+  font-family: "Roboto", sans-serif;
+  font-size: 100px;
+  font-weight: 900;
+}
+.units {
+  color: #ab47bd;
+  font-size: 30px;
+  font-weight: 400;
+}
+.humidity-wind {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1;
+  list-style: none;
+  margin-top: -20px;
+  padding: 0;
+}
+p {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0;
+}
+
+div {
+  color: #5666be;
+  font-weight: 500;
+}
